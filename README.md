@@ -2,4 +2,4 @@
 
 ## The assignment focuses on designing a relational table, inserting and maintaining employee records, and writing analytical SQL queries to extract meaningful insights from the data.
 
-## The PDF shows the Assignemnt questions and answers in greater detail. 
+## The PDF shows the assignment questions and answers in greater detail. 
