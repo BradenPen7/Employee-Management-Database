@@ -1,4 +1,4 @@
-## This is an assignemnt for an Database Management course specifically focused on the use of SQL
+## This is an assignemnt for a Database Management course specifically focused on the use of SQL
 
 ## The assignment focuses on designing a relational table, inserting and maintaining employee records, and writing analytical SQL queries to extract meaningful insights from the data.
 
